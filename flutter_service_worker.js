@@ -11,14 +11,14 @@ const RESOURCES = {
 "assets/assets/fonts/Anton-Regular.ttf": "13770dde4178c487efc63d33866fe613",
 "assets/assets/fonts/Lato-Regular.ttf": "c5eb54404c9dbda925f7142d6343c913",
 "assets/AssetManifest.json": "e3de55008cd9cab7849b18ea86046b88",
-"assets/NOTICES": "8669f4ae01ea5745accf13dfec2857fe",
+"assets/NOTICES": "3e7503d7a221d83004ac2e1907b6226c",
 "assets/FontManifest.json": "f268fa87b770bd9a5312607db723c2a6",
 "manifest.json": "69f9e14f12cb30802b2d71f11a8404bc",
 "version.json": "b575994fd58cb33e3d91aaf84f50a409",
-"index.html": "ef0fb3e022768c9de19edc3882a2b6c1",
-"/": "ef0fb3e022768c9de19edc3882a2b6c1",
+"index.html": "97e029a3202ba9ff2c2d0ff5ef1d33e2",
+"/": "97e029a3202ba9ff2c2d0ff5ef1d33e2",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "f36d2231ebade3c8fa165d5949a54632"
+"main.dart.js": "c9b6cf1e18f1c13e56e97f6f125937cb"
 };
 
 // The application shell files that are downloaded before a service worker can
