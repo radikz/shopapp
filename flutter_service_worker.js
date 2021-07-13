@@ -15,10 +15,10 @@ const RESOURCES = {
 "assets/FontManifest.json": "f268fa87b770bd9a5312607db723c2a6",
 "manifest.json": "69f9e14f12cb30802b2d71f11a8404bc",
 "version.json": "b575994fd58cb33e3d91aaf84f50a409",
-"index.html": "97e029a3202ba9ff2c2d0ff5ef1d33e2",
-"/": "97e029a3202ba9ff2c2d0ff5ef1d33e2",
+"index.html": "9f9a6b1fe8f0e1518a8698dbf09d91e0",
+"/": "9f9a6b1fe8f0e1518a8698dbf09d91e0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "c9b6cf1e18f1c13e56e97f6f125937cb"
+"main.dart.js": "eb6feffaf693f33431e4a1dbe27d9af6"
 };
 
 // The application shell files that are downloaded before a service worker can
